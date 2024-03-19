@@ -1,0 +1,5 @@
+c:\Users\algab\OneDrive\Documentos\GitHub\LearningCSharp\CalculadoraX\CalculadoraX\obj\Debug\net8.0\CalculadoraX.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\algab\OneDrive\Documentos\GitHub\LearningCSharp\CalculadoraX\CalculadoraX\obj\Debug\net8.0\CalculadoraX.AssemblyInfoInputs.cache
+c:\Users\algab\OneDrive\Documentos\GitHub\LearningCSharp\CalculadoraX\CalculadoraX\obj\Debug\net8.0\CalculadoraX.AssemblyInfo.cs
+c:\Users\algab\OneDrive\Documentos\GitHub\LearningCSharp\CalculadoraX\CalculadoraX\obj\Debug\net8.0\CalculadoraX.csproj.CoreCompileInputs.cache
+c:\Users\algab\OneDrive\Documentos\GitHub\LearningCSharp\CalculadoraX\CalculadoraX\obj\Debug\net8.0\CalculadoraX.sourcelink.json
